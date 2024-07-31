@@ -1,6 +1,6 @@
 # Cadastro de Projetos
 
-## Api onde podemos cadastrar projetos e funcionários
+## Api onde podemos cadastrar projetos e funcionários, onde um funcionário pode estar em vários projetos e um projeto pode ter vários funcionários.
 
 ### Tecnologias utilizadas 💻:
 
