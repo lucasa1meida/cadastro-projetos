@@ -10,6 +10,8 @@
 * RESTful
 * Testes unitários/persistência com Junit/Mockito
 * Swagger
+* Relacionamento de Entidades
+* Jpa
 
 ### Guia para inicialização 💡:
 
