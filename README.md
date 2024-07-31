@@ -6,7 +6,7 @@
 
 * Jdk 21
 * Spring boot
-* Docker-compose
+* Docker-compose com imagem MySql
 * RESTful
 * Testes unitários/persistência com Junit/Mockito
 * Swagger
