@@ -1,6 +1,6 @@
 # Cadastro de Projetos
 
-## Documentação
+## Api onde podemos cadastrar projetos e funcionários
 
 ### Tecnologias utilizadas 💻:
 
@@ -55,4 +55,3 @@ Podemos verificar métricas da aplicação utilizando dos caminhos que o spring 
 
 ### Considerações finais:
 - No ambiente produtivo poderíamos colocar as chaves de acesso ao banco de dados em variáveis de ambiente e seguras em ferramentas como por exemplo no KEY_VAULT do Azure ou até mesmo KMS da AWS.
-- 
